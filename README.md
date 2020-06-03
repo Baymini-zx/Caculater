@@ -1,2 +1,2 @@
 # Caculater
-利用python编写计算器
+利用python编写的计算器
